@@ -1,12 +1,16 @@
 Hardware Build
 ================================================================================================================
 
-`Bill of Materials <>`_
+`Bill of Materials <https://drive.google.com/open?id=1pgc1RaVsBujjWzoO6uu5cKgIHgrCsZyRMPaoN123keA>`_
 ----------------------------------------------------------------------------------------------------------------
-TBD
+|bill_of_materials|
+
+.. |bill_of_materials| raw:: html
+
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2B-nt8vKtanuil1hqrSuGdDyMBjjFd5F4GOl8694RybSSsk6ir_rA5ZUUUojiMA0BbzVyygft6jfj/pubhtml?widget=true&amp;headers=false" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-`RACECAR Parts <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_
+`RACECAR Parts Reference <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_
 ----------------------------------------------------------------------------------------------------------------
 |racecar_parts_embed|
 
