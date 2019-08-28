@@ -1,5 +1,4 @@
-# rms-website
-MIT BWSI RACECAR Middle School - Official Website .  
+# MIT BWSI RACECAR Middle School - Official Website      
 
 The GitHub Pages site is currently being built from the ```gh-pages``` branch.    
 The ```gh-pages``` branch is a subtree off the ```master``` branch.    
