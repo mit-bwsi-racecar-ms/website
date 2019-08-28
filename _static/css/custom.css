@@ -1,0 +1,18 @@
+@import url("theme.css");
+
+a {
+    text-decoration: none; 
+}
+.headerlink{
+   content: none; 
+   visibility: hidden; 
+}
+a:hover {
+    text-decoration: underline; 
+}
+
+.rst-content h1 .headerlink:after, .rst-content h2 .headerlink:after, .rst-content .toctree-wrapper p.caption .headerlink:after, .rst-content h3 .headerlink:after, .rst-content h4 .headerlink:after, .rst-content h5 .headerlink:after, .rst-content h6 .headerlink:after, .rst-content dl dt .headerlink:after, .rst-content p.caption .headerlink:after, .rst-content table>caption .headerlink:after, .rst-content .code-block-caption .headerlink:after {
+    content: none;
+    font-family: FontAwesome;
+}
+

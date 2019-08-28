@@ -1,0 +1,196 @@
+./02-curriculum/01-python/conditionals.rst
+0: https://docs.google.com/presentation/d/16oMbpPzf4kFin06dhCCSqq__RZOsVy76JlgrJerCubU/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vS4Lc3UdeYlOdFb86Y3QUH6qC-TRm56XUxjCD8YmU1QnhkfVggRaYlSMx9H1waag9Y9EAwuWMM8lB8v/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/03-conditionals/Conditionals.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/03-conditionals/Conditionals.ipynb
+4: https://play.kahoot.it/#/?quizId=e59bc210-37be-4bba-baa0-b1e51bc9f10e
+
+./02-curriculum/01-python/datastructures.rst
+0: https://docs.google.com/presentation/d/1S0ULDYdP5Y5i9iX4PJvesMFYr4aVRBjUiwPIXJVQOxA/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQBLX-5p-EcxG8dPY6EsPON1zMnZmQyxhwRsintyYzRlT4gQyYCyEcBNyAdPa6qaB5c3nul9Dc7Xx_5/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/05-datastructures/DataStructures.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/05-datastructures/DataStructures.ipynb
+4: https://play.kahoot.it/#/?quizId=3d66dd52-77c0-46a6-b0c5-da278963ce97
+
+./02-curriculum/01-python/datatypes.rst
+0: https://docs.google.com/presentation/d/1_OLK_B0PS3zHK4HE5J6f718X9ps6uHF5l_OkZ6Ih_Wk/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vST2Tv1Uhp45G19T8PmmoJeezFWhD5B8ahHRgidzFcLmE1SNpsmoOPSXfXjs6IcuAiNXs1zgwv2kEYe/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/01-datatypes/DataTypes.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/01-datatypes/DataTypes.ipynb
+
+./02-curriculum/01-python/functions.rst
+0: https://docs.google.com/presentation/d/1MDOWvH8d5UjcvKcKljaPO9ZI7FSm8gIzm8Fe90LQ_yo/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQZHNozlpA9ghQq4tnYvmfuZdbo_GY9QsrTMIjr53Zqt_CJXeCRp9U4YMCbHlFtNRqqlrzEd_7vCaBJ/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/04-functions/Functions.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/04-functions/Functions.ipynb
+4: https://play.kahoot.it/#/?quizId=dc4c7016-304f-4cbd-a3b2-deb5df3e7492
+
+./02-curriculum/01-python/loops.rst
+0: https://docs.google.com/presentation/d/1H39tt_QBHZtucrFAvBpGhbqFvuIWqv1Mz6uxIG9esyM/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vR2J-Vyswgs-A6mM8XfFI5L-B65-FtH3bB-gKVqsIzG6jNXeSqJ3mOMHnJjAewaUTrBngr3fxeyK_zt/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/06-loops/Loops.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/06-loops/Loops.ipynb
+4: https://play.kahoot.it/v2/?quizId=cb5b1e7b-1602-4d1a-bb71-b65a8cee9e4b
+
+./02-curriculum/01-python/objectoriented.rst
+0: https://docs.google.com/presentation/d/1oNyFHCAVrhkhkVU_XhyfnM5TgRas2FFV32SpJRjHjv0/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQU6erPZkZEYd6RNbAuSOieuV0gOOjFjFIqiGKcUFGBiRzDUsZNjyyG7KQMc1gCSEuNGQ1rjicOJkC5/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/07-objectoriented/ObjectOriented.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/07-objectoriented/ObjectOriented.ipynb
+
+./02-curriculum/01-python/python_review.rst
+0: https://docs.google.com/presentation/d/1HhFaLS8SJXAElhv_6QdJsRBcEKCe2RPUJJNriBdmGO0/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQAnpk65wFuUlg0Jsg2Q-OzLo8VAzegAXgKg7-71t5NA0rRNl08szMp5KsD8fwXR8apBN7cbHgzyMSW/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/tree/master/01-python/review
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/tree/master/01-python/review/
+4: https://play.kahoot.it/#/?quizId=55e9077d-38ff-4a5b-8345-a04992923a12
+5: https://play.kahoot.it/#/?quizId=b6be680c-e4eb-4a14-a805-95bd992624d6
+
+./02-curriculum/01-python/scratch.rst
+0: https://docs.google.com/presentation/d/1GWLkDdlYnp8SAcLiJphJ3518pK-7RekKUpH7pWA_4og/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vTK5jd1Re76on0wxMhra8dgTKTgdnyM9EVA6_f9Q8tnF21rdPX2cjdUf5I7HnCmp8POrF-iO8E-M5my/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/00-scratch/Scratch.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/00-scratch/Scratch.ipynb
+
+./02-curriculum/01-python/variables.rst
+0: https://docs.google.com/presentation/d/1m7lv5GKZLSLY7Te9ws0YYDqcaj3TChlM7L5gACdez84/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vTLgS_kYZoJkK77zxj85lo1b0eWhb_J66lxtnbJ0QOwfPYd9UYrYjUqIP4mrfMwRg-5nnOrCRTxaEpj/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/02-variables/Variables.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/02-variables/Variables.ipynb
+4: https://play.kahoot.it/#/?quizId=e34eb356-eeca-4a0f-8170-2c8c2855d358
+
+./02-curriculum/02-projects/adventure.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/ChooseYourAdventure/HogwartsAdventure.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/ChooseYourAdventure/HogwartsAdventure.ipynb
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/ChooseYourAdventure/ChooseYourAdventure.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/ChooseYourAdventure/ChooseYourAdventure.ipynb
+
+./02-curriculum/02-projects/coding_bat.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/CodingBat/CodingBat.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/CodingBat/CodingBat.ipynb
+
+./02-curriculum/02-projects/cube_runner.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/CubeRunner/CubeRunner.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/CubeRunner/CubeRunner.ipynb
+
+./02-curriculum/02-projects/hangman.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/Hangman/Hangman.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/Hangman/Hangman.ipynb
+
+./02-curriculum/02-projects/madlibs.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/MadLibs/Madlibs.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/MadLibs/Madlibs.ipynb
+
+./02-curriculum/02-projects/overview.rst
+0: https://docs.google.com/presentation/d/1EyksoXTtR4h9lrQfUgd3Afe-mptDGIz6_ZZnJw9g34A/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vSiyaOTJfkb6SGh1zm96jErCDKTNqziBhaDgCWphM5JnKScSbbUjIT185LmzK7C4Vz11m4A8ts1NBXt/embed?start=false&loop=false&delayms=3000
+
+./02-curriculum/02-projects/tictactoe.rst
+0: https://github.com/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/TicTacToe/TicTacToe.ipynb
+1: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/01-python/projects/TicTacToe/TicTacToe.ipynb
+
+./02-curriculum/03-opencv/birdie_mask.rst
+0: https://docs.google.com/presentation/d/1m1FcY1F0GKYZ36AMlXs7Yz_4dhG9cldI--JlKREE5eY/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vSnkdLGfW4Tlx2Vd03FnBtQPPQeelaNmTDm9p-0FXqXmGS4MqcD6wfiwpSGhwZtevy-ZKQvBrTsB6bH/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/04-birdie_mask/BirdieMask.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/04-birdie_mask/BirdieMask.ipynb
+4: https://play.kahoot.it/v2/?quizId=943a9bfe-cacb-4e78-8b44-87c60bd395e8
+
+./02-curriculum/03-opencv/color_spaces.rst
+0: https://docs.google.com/presentation/d/1lyD9eJvD08F2_qsKzmToX3g1qjnwbu09h5pfAotTOo0/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vSGEJ0fvZiTOyChv4jCAEAVSCjwLArmm3mnrwAcCeXF-jkldJ6cmlAZTaVFqRceiWYKl1KTMnxCMa55/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/03-color_spaces/ColorSpaces.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/03-color_spaces/ColorSpaces.ipynb
+
+./02-curriculum/03-opencv/color_trackbar.rst
+0: https://docs.google.com/presentation/d/1JX5F96B_2ECqhddjiUYLrK8-Bl1ICCCvtP4hmMLwnFs/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQsg7WebaW3MuxV75aY1hJ1U-K-GFJT0Fdj7bKz_iOjXH9CfHQRZzsImDmnmICqmXz9uQprJFZWRbMU/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/02-color_trackbar/ColorTrackbar.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/02-color_trackbar/ColorTrackbar.ipynb
+
+./02-curriculum/03-opencv/contours.rst
+0: https://docs.google.com/presentation/d/1tt5OUed9hOiSG6jRvllVv7FNRxTjk3my6iLi5qG3Q48/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vTaIRQdbSE1C5McGGzsAxjaFmbgEp78jQcBYGdeBGfnMZaJdR2DwKswMo23cksXvBh2w74dQqqy3uDS/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/06-contours/Contours.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/06-contours/Contours.ipynb
+4: https://play.kahoot.it/v2/?quizId=cdae6419-a68f-4562-a4ca-002a500dfa6b
+
+./02-curriculum/03-opencv/drawing.rst
+0: https://drive.google.com/open?id=1jfntMN2T9dCNkCmSFNsovngiC3cqZUBE31um38PvJTY
+1: https://docs.google.com/presentation/d/e/2PACX-1vRnj0zJZ9iQV6LXjxolgEaXUEckrTyjRgnd5qDGGmkVFaNoSHpJaih-sC0aAfJiE1g6Q5H9jM1pUuU1/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/01-drawing_lab/DrawingLab.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/01-drawing_lab/DrawingLab.ipynb
+4: https://play.kahoot.it/#/?quizId=ea423973-428b-4e29-8327-661a36b257f0
+
+./02-curriculum/03-opencv/feature_detection.rst
+0: https://drive.google.com/open?id=1PmcNn7jQ6tcd-BmWXAdhWKB97rb1JUenWreAskC-lis
+1: https://docs.google.com/presentation/d/e/2PACX-1vRFikzvIAdkZv25hXPC4VbJb96x0H6eBDaeE2lyAdfERXiuVz8GaWGvWJReKzGgzz_f3FoUzu3yfFhH/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/08-feature_detection/FeatureDetection.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/08-feature_detection/FeatureDetection.ipynb
+
+./02-curriculum/03-opencv/green_screen.rst
+0: https://docs.google.com/presentation/d/1ZoTJMHBkt9GryATYUdTUZWZTv8BTCZ_HX3EY5aBOUsM/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vSS20kNOgI-B89H1M8ag8hijipofAVHB893fAHBm4gUOrIbmobL1GpUa1jH0_IzUnoUZMDVs3lh_nJi/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/05-green_screen/GreenScreen.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/05-green_screen/GreenScreen.ipynb
+
+./02-curriculum/03-opencv/line_edge_detection.rst
+0: https://drive.google.com/open?id=1krYYKeJHyligwMuyxQvJsBQ2aO_P6ABpYTh9zih3ry0
+1: https://docs.google.com/presentation/d/e/2PACX-1vQOM6gmptmD222DsCq0zzbd61JCTkkyn8l-_UoE6mnphWaNOBI8LVQBWXTh6yBjJDLEpAa_T6IUyJeH/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/09-line_edge_detection/LineEdgeDetection.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/09-line_edge_detection/LineEdgeDetection.ipynb
+
+./02-curriculum/03-opencv/painter.rst
+0: https://docs.google.com/presentation/d/15F0EAWfsMQJtZvWl-Q2oRcw2vjQHjU9DsHpe8AXxVcY/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vTTFi5jlfmCkCmI43E0sEuso7M0_YwzMKi8x8yVZVyS-71r-dHax2c7YcO5wweI7KuBRlJvMPeWeVlJ/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/02-openCV/07-painter/Painter.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/02-openCV/07-painter/Painter.ipynb
+4: https://play.kahoot.it/v2/?quizId=fd037e00-371d-4521-aed5-eb12231e4152
+
+./02-curriculum/04-racecar/checkerboard.rst
+0: 
+1: 
+2: 
+3: 
+
+./02-curriculum/04-racecar/cone_detection.rst
+0: https://drive.google.com/open?id=1wKm5ay8wo6gdpM8NKSJkDGn5lRlPpbZK_xV52LCjnFQ
+1: https://docs.google.com/presentation/d/e/2PACX-1vRIGzDJmL-TPcR0_BBmsFiKNfwd-Hj7LXFe6Bx8sRilxjaFo8gQIRhqUCJTq80Qq37w0Ck9SjmOpuM8/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/05-cone_detection/ConeDetection-Instructions.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/05-cone_detection/ConeDetection-Instructions.ipynb
+
+./02-curriculum/04-racecar/cone_following.rst
+0: https://drive.google.com/open?id=1sW8EBW0cPZlCe7TXLZ8jmcQfBD65d12VTBy26X5sJjY
+1: https://docs.google.com/presentation/d/e/2PACX-1vThA-thOtFzmDiMPwM74VGKRgebTYD1acfK-V8FJyvrWemg203wa2mI85vsZswSWppqPDMFnY4cQMsY/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/02-cone_following/ConeFollowing.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/02-cone_following/ConeFollowing.ipynb
+4: https://play.kahoot.it/#/?quizId=2505030b-2e64-4a75-890b-b8aa7f35d161
+
+./02-curriculum/04-racecar/intro_racecar.rst
+0: https://docs.google.com/presentation/d/1AVnSXKwoKB98osBAsGH-tNDULHYyMO3JyzL6EORK5ZE/edit?usp=sharing
+1: https://docs.google.com/presentation/d/e/2PACX-1vQrSmVOBvVXHx51k6HXudw8Ma89OHhry36MmvG4iYrxeqeBZn5z8QKXFoIVrBHIo6HVP26Ah0DifZXh/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/01-intro_racecar/IntroRacecar.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/01-intro_racecar/IntroRacecar.ipynb
+
+./02-curriculum/04-racecar/line_following.rst
+0: https://drive.google.com/open?id=1-bsdwTormHwIwcmXq5qz0Hm8eSUm0SRDlIV8VWfWzE4
+1: https://docs.google.com/presentation/d/e/2PACX-1vSscrx6iHlMvBFsoYCk0SroayhZpa2PLrUjQ_1jkmZSAw_L-j9u8idacIGwyvY_pSZXdqJuPeyrr_aD/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/03-line_following/LineFollowing.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/03-line_following/LineFollowing.ipynb
+
+./02-curriculum/04-racecar/path_selection.rst
+0: https://drive.google.com/open?id=1etjiLLx74sqkj8QsvF5Md3MkclC0Yi43S5Zj58hN8GQ
+1: https://docs.google.com/presentation/d/e/2PACX-1vTAp8ItsONCjgEdwOOk2tFFo33M1tatw5JU2qBmcPnFLQ4mWpI7RKA0njCUXEiDHOk4pFbV_jnPP-E-/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/04-path_selection/PathSelection-Instructions.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/04-path_selection/PathSelection-Instructions.ipynb
+
+./02-curriculum/04-racecar/sign_detection.rst
+0: https://drive.google.com/open?id=1Bf5crMYgEy_o4esWC91NIg4asgoQDGDdjUxprkEi7xg
+1: https://docs.google.com/presentation/d/e/2PACX-1vTV7b6v-h-esJL0CcNrd-27GUrGKX5IVyeCi9JfwTQJsDp8OZLFS8iHXLPCEDuDVvZQj2NGLilJuaCC/embed?start=false&loop=false&delayms=3000
+2: https://github.com/bwsi-racecar-ms/online-labs/blob/master/03-racecar/06-sign_detection/SignDetection-Instructions.ipynb
+3: https://nbviewer.jupyter.org/github/bwsi-racecar-ms/online-labs/blob/master/03-racecar/06-sign_detection/SignDetection-Instructions.ipynb
+
+./02-curriculum/05-finalchallenge/overview.rst
+0: https://drive.google.com/open?id=1ayup4FYGCWwygTgxTKN05yDgVpVjbfxpZEVdU-xSNM0
+1: https://docs.google.com/presentation/d/e/2PACX-1vSCuNaASPEw2xeOByFOOX5MeeBNQXwbx3cq68F2Iliig-fmz4h_oHL5bd1HDMrdlQUYj2IqUbfxATyy/embed?start=false&loop=false&delayms=3000
+
