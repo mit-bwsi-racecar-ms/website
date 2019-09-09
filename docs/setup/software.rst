@@ -1,8 +1,10 @@
-Software Build
+Software
 ===================================================================================================================================
 
 `Software Setup Instructions <https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/edit?usp=sharing>`_
 -----------------------------------------------------------------------------------------------------------------------------------
+racecar-mn.img (`download <TBD>`_)
+
 |software_build_embed|
 
 .. |software_build_embed| raw:: html

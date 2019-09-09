@@ -11,7 +11,7 @@ What software do I need to get started?
 	- ROS
 
 Who should I contact regarding technical issues for this course?
-	- Email TBD
+	- Email bwsi-ms-help(at)mit(dot)edu
 
 My student is interested in the BeaverWorks Summer Institute Program. Who should I contact?
 	- Please visit the BWSI Website for more information: https://beaverworks.ll.mit.edu/CMS/bw/bwsi

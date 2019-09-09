@@ -1,11 +1,11 @@
 # MIT BWSI RACECAR Middle School - Official Website      
 
-The GitHub Pages site is currently being built from the ```gh-pages``` branch.    
-The ```gh-pages``` branch is a subtree off the ```master``` branch.    
+GitHub Pages is built from the ```gh-pages``` branch.    
+The ```gh-pages``` branch is a subtree of the ```master``` branch.    
 Run the following commands below to make edits to the website.     
 
 ```git clone```     
-*make changes to files in /docs folder*     
+Make changes to files in /docs folder. If you delete and rebuild the /_build folder, make sure that you re-add the .nojekyll file to the /_build/html folder so that the website css can be displayed properly.          
 ```make html``` (to build the /_build folder)     
 ```git add <files_changed>```     
 ```git commit -m "<commit_message>"```     

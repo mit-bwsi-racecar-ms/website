@@ -1,8 +1,10 @@
-Hardware Build
+Hardware
 ================================================================================================================
 
 `Bill of Materials <https://drive.google.com/open?id=1pgc1RaVsBujjWzoO6uu5cKgIHgrCsZyRMPaoN123keA>`_
 ----------------------------------------------------------------------------------------------------------------
+RACECAR Mounting Plate CAD Files (`download <https://drive.google.com/drive/folders/1NnhHsqurChNSBMjVC_DKC72OVTiFB8WH>`_)
+
 |bill_of_materials|
 
 .. |bill_of_materials| raw:: html
