@@ -5,7 +5,7 @@ General Questions
 -----------------------------------------
 
 How do I get started?
-	- Read the `Curriculum Guide <https://mit-bwsi-racecar-ms.github.io/website/docs/intro/curriculum.html>`_. This should provide a brief overview of the course, as well as instructions on how to follow the course curriculum.
+	- Read the `Curriculum Guide <https://mit-bwsi-racecar-ms.github.io/website/docs/intro/curriculum.html>`_. This should provide a brief overview of the course, as well as instructions on the order in which to complete the course curriculum.
 
 Who should I contact regarding technical issues for this course?
 	- Email bwsi-rms-help.mit.edu
