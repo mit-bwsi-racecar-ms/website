@@ -1,4 +1,7 @@
-# MIT BWSI RACECAR Middle School - Official Website      
+# MIT BWSI RACECAR Middle School - Official Website   
+
+This website is made using Sphinx:     
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html   
 
 GitHub Pages is built from the ```gh-pages``` branch.    
 The ```gh-pages``` branch is a subtree of the ```master``` branch.    

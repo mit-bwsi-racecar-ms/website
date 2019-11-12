@@ -1,13 +1,12 @@
 Welcome to Racecar Middle School!
 =======================================
 
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Introduction
 
-   docs/intro/course_overview.rst
+   docs/intro/welcome.rst
+   docs/intro/curriculum.rst
    docs/intro/schedule.rst
 
 
@@ -34,10 +33,11 @@ Welcome to Racecar Middle School!
    :maxdepth: 2
    :caption: Setup
 
-   docs/setup/hardware.rst
-   docs/setup/software.rst
-   docs/setup/startup_instructions.rst
-   docs/setup/debugging.rst
+   docs/setup/pythonopencv_software.rst
+   docs/setup/racecar_hardware.rst
+   docs/setup/racecar_software.rst
+   docs/setup/racecar_startup.rst
+
 
 .. toctree::
    :maxdepth: 2

@@ -1,4 +1,4 @@
-Software
+RACECAR Software
 ===================================================================================================================================
 
 `Software Setup Instructions <https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/edit?usp=sharing>`_

@@ -1,6 +1,5 @@
-Course Overview
-=======================================
-Welcome to BWSI Racecar Middle School!    
+Welcome to Racecar Middle School!   
+==========================================================================================================
  
 Slides: `BWSI19 RMS Overview <https://drive.google.com/open?id=1kGjlHHpMqoiUSMxI6TlkowEkqQIcCHmVdXfpEWJp3ek>`_
 

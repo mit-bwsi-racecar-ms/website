@@ -91,7 +91,8 @@
             
               <p class="caption"><span class="caption-text">Introduction</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../intro/course_overview.html">Course Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../intro/welcome.html">Welcome to Racecar Middle School!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../intro/curriculum.html">Curriculum Overview</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../intro/schedule.html">Schedule</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Curriculum</span></p>
@@ -109,16 +110,21 @@
 </ul>
 <p class="caption"><span class="caption-text">Setup</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../setup/hardware.html">Hardware</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../setup/software.html">Software</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../setup/startup_instructions.html">RACECAR Startup Instructions</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../setup/debugging.html">Debugging</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../setup/pythonopencv_software.html">Python/OpenCV Software</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../setup/racecar_hardware.html">RACECAR Hardware</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../setup/racecar_software.html">RACECAR Software</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../setup/racecar_startup.html">RACECAR Startup Instructions</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Resources</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="course_materials.html">Course Materials</a></li>
 <li class="toctree-l1"><a class="reference internal" href="references.html">References</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Frequently Asked Questions</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Frequently Asked Questions</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#general-questions">General Questions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#python-opencv-and-jupyter">Python, OpenCV, and Jupyter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#racecar">RACECAR</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="contributors.html">Contributors</a></li>
 </ul>
 
@@ -184,23 +190,29 @@
             
   <div class="section" id="frequently-asked-questions">
 <h1>Frequently Asked Questions<a class="headerlink" href="#frequently-asked-questions" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="general-questions">
+<h2>General Questions<a class="headerlink" href="#general-questions" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
 <dt>How do I get started?</dt>
 <dd><ul class="first last simple">
-<li>Go through the Software and Hardware Build instructions in the the “SETUP” section.</li>
+<li>Read the “Course Overview” section. This should provide a brief overview of the course, as well as instructions on how to follow the course curriculum.</li>
 </ul>
 </dd>
-<dt>What software do I need to get started?</dt>
+<dt>What software do I need to get started on the Python/OpenCV labs?</dt>
 <dd><ul class="first last simple">
 <li>Python 2.7</li>
 <li>Anaconda</li>
 <li>Jupyter</li>
-<li>ROS</li>
+</ul>
+</dd>
+<dt>What do I need to get started on the RACECAR labs?</dt>
+<dd><ul class="first last simple">
+<li>Follow the RACECAR hardware and software build/setup instructions.</li>
 </ul>
 </dd>
 <dt>Who should I contact regarding technical issues for this course?</dt>
 <dd><ul class="first last simple">
-<li>Email bwsi-ms-help(at)mit(dot)edu</li>
+<li>Email bwsi-rms-help.mit.edu</li>
 </ul>
 </dd>
 <dt>My student is interested in the BeaverWorks Summer Institute Program. Who should I contact?</dt>
@@ -209,6 +221,128 @@
 </ul>
 </dd>
 </dl>
+</div>
+<div class="section" id="python-opencv-and-jupyter">
+<h2>Python, OpenCV, and Jupyter<a class="headerlink" href="#python-opencv-and-jupyter" title="Permalink to this headline">¶</a></h2>
+<dl class="docutils">
+<dt>What are Jupyter Notebooks? How do I use it?</dt>
+<dd><ul class="first last simple">
+<li>Check out the “How to Use Jupyter Notebook” document under the “Python/OpenCV” section.</li>
+</ul>
+</dd>
+<dt>What is “utils” or “racecar_utils”?</dt>
+<dd><ul class="first last simple">
+<li>These are scripts that hold helpful functions for the labs that were written by instructors.</li>
+</ul>
+</dd>
+<dt>How do I stop/interrupt a cell that is running?</dt>
+<dd><ul class="first last simple">
+<li>Press the “square” button at the top of the notebook.</li>
+</ul>
+</dd>
+<dt>How do I reset the jupyter notebook?</dt>
+<dd><ul class="first last simple">
+<li>Press the “rewind” button at the top of the notebook.</li>
+</ul>
+</dd>
+<dt>My notebook cells look weird…</dt>
+<dd><ul class="first last simple">
+<li>Press ESC. Wait until cell outline turns blue. Then press “y” to return to python, or “m” to return to Markdown.</li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="section" id="racecar">
+<h2>RACECAR<a class="headerlink" href="#racecar" title="Permalink to this headline">¶</a></h2>
+<dl class="docutils">
+<dt>My RACECAR isn’t moving.</dt>
+<dd><ol class="first last arabic simple">
+<li>Is the white battery plugged in? Is the white battery charged?</li>
+<li>Is the Jetson powered on? (A green light should be lit up on the Jetson)</li>
+<li>Did you run “teleop”?</li>
+<li>Is the motor battery plugged in? Is the motor battery charged?</li>
+<li>Is the RC car switched ON?</li>
+<li>Are the PWM-motor wires connected? Are the wires connected correctly?</li>
+<li>Was the PWM re-programmed to USB Dual Port mode?</li>
+<li>Does the controller have battery?</li>
+<li>Is the controller USB plugged into the Jetson?</li>
+<li>Is the controller paired with the controller USB on the Jetson? (if not, press the middle button on the controller to pair)</li>
+<li>Did you press the “dead-man switch” on your controller (LB for manual, RB for autonomous)</li>
+<li>Make sure you stay close to the RACECAR when driving. The controller/USB tends to get unpaired if they are too far away from each other.</li>
+</ol>
+</dd>
+<dt>How do I use the controller?</dt>
+<dd><ul class="first last simple">
+<li>Plug in your controller USB to the Jetson. Make sure the controller has battery.</li>
+<li>Pair the controller with the USB. Both the controller and USB lights will flash intermittedly if not paired correctly. To pair the controller and USB together, hold down the middle xbox button on the controller until both lights stop flashing.</li>
+<li>To drive the RACECAR… Hold down the “dead-man switch” on the controller while operating the joysticks: LB for manual drive, or RB for autonomous mode. Use the left joystick to move forwards/backwards, and the right joystick to turn left/right.</li>
+<li>Make sure your RACECAR is nearby when using the controller. The controller/USB tends to get unpaired if they are too far away from each other.</li>
+</ul>
+</dd>
+<dt>My keyboard isn’t working.</dt>
+<dd><ul class="first last simple">
+<li>Does your keyboard have battery?</li>
+<li>Is the keyboard switched to “on”? (Look at the top, and make sure the top switch is green, not red)</li>
+<li>Is the keyboard USB plugged into the Jetson nano?</li>
+<li>Are you working close to your racecar? (the keyboard/USB tends to get unpaired if they are too far away from each other)</li>
+</ul>
+</dd>
+<dt>My mini-monitor isn’t turning on.</dt>
+<dd><ul class="first last simple">
+<li>Is it connected to power?</li>
+<li>Is the HDMI cable connected to both the mini-monitor annd Jetson nano?</li>
+<li>Is the Jetson nano turned on? (Is the green power button on?)</li>
+<li>Is the mode on the mini-monitor on “HDMI Mode”?</li>
+<li>Did you JUST turn on the Jetson nano? It takes a few minutes for the Jetson nano to completely turn on. Wait a few minutes for the nano to boot.</li>
+</ul>
+</dd>
+<dt>My xbox controller joystick moves the car forward, but is not turning left/right correctly.</dt>
+<dd><ul class="first last simple">
+<li>Did you correct the steering? Was the PWM re-programmed to USB Dual Port mode?</li>
+<li>Depending on your xbox controller version, you might have different xbox controller inputs that need to be remapped. Go to: ~/racecar_ws/.catkin_ws/src/racecar_mn/config/params.yaml, and change “gamepad_y_axis” from 3 to 2.</li>
+</ul>
+</dd>
+<dt>I’m getting the error: “pwm-5 process has died no such file or directory”</dt>
+<dd><ul class="first last simple">
+<li>You need to re-program your PWM board to USB Dual Port mode.</li>
+</ul>
+</dd>
+<dt>I am getting the error: “ros node not found”</dt>
+<dd><ul class="first last simple">
+<li>Remember to run “teleop”</li>
+</ul>
+</dd>
+<dt>I am getting the error: “roscore not found”</dt>
+<dd><ul class="first last simple">
+<li>Make sure you ran all the previous import cells (in particular the one that imports and initiates the ROS node)</li>
+</ul>
+</dd>
+<dt>I am getting the error: “&lt;function&gt; or &lt;variable&gt; not defined”</dt>
+<dd><ul class="first last simple">
+<li>Make sure you ran all the previous cells. If you had to reset your jupyter notebook, you will need to re-run all your cells again.</li>
+</ul>
+</dd>
+<dt>I am getting the error: “utils/racecar_utils not found”</dt>
+<dd><ul class="first last simple">
+<li>Your relative path to the utils file is incorrect.</li>
+<li>Check where your utils.py or racecar_utils.py folder is relative to your current folder.</li>
+</ul>
+</dd>
+<dt>I am getting the error: “ipywidgets is not installed”</dt>
+<dd><ul class="first last simple">
+<li>Execute the following commands:</li>
+<li>pip install ipywidgets</li>
+<li>jupyter nbextension enable –py widgetsnbextension</li>
+</ul>
+</dd>
+<dt>How many racecars should we connect to one router at a time?</dt>
+<dd><ul class="first last simple">
+<li>We would recommend a max of 2 racecars to 1 router.</li>
+<li>During our first summer running the class, we needed to use 12 racecars at once. We initially paired 4 racecars to 1 router (aka using 3-4 routers at once in one room), however there was overwhelming lag. This was because there were too many routers in one room at once, and too many racecars trying to access one router.  Our solution was to pair 2 racecars to 1 router, and separate the class into 2 classrooms to decrease router interference.</li>
+</ul>
+</dd>
+</dl>
+</div>
 </div>
 
 
