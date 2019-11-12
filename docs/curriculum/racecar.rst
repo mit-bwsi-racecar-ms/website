@@ -1,6 +1,6 @@
 .. include:: ../racecar_links.rst
 
-Part 4: Racecar
+Module 4: Racecar
 ================================
 Slides: `Intro to RACECAR Lecture`_
 

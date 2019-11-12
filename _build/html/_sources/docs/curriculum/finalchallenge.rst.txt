@@ -1,6 +1,6 @@
 .. include:: ../racecar_links.rst
 
-Part 5: Final Challenge
+Module 5: Final Challenge
 =============================================================================================================
 
 `Final Challenge Lecture`_

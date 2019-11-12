@@ -14,6 +14,7 @@ Welcome to Racecar Middle School!
    :maxdepth: 2
    :caption: Curriculum
 
+   docs/curriculum/setup.rst
    docs/curriculum/python.rst
    docs/curriculum/projects.rst
    docs/curriculum/opencv.rst

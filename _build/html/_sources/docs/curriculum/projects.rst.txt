@@ -1,6 +1,6 @@
 .. include:: ../projects_links.rst
 
-Part 2: Game Projects
+Module 2: Game Projects
 ================================
 Slides: `Python Game Projects`_
 

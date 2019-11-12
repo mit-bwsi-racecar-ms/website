@@ -1,6 +1,6 @@
 .. include:: ../python_links.rst
 
-Part 1: Python
+Module 1: Python
 ================================
 Slides: `Course Overview`_
 

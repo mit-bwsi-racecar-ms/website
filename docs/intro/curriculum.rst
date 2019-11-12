@@ -1,51 +1,44 @@
 Curriculum Guide
-======================
+========================
 
-The curriculum is split into 3 primary sections:    
+Course Overview
+------------------------
+The Racecar Middle School (RMS) curriculum focuses on teaching 3 main areas of interest:    
 
-    1. `Python <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/python.html>`_ (+ `Game Projects <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/projects.html>`_)     
-    2. `OpenCV <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/opencv.html>`_     
-    3. `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/racecar.html>`_ (+ `Final Challenge <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/finalchallenge.html>`_)      
-      
-The hardware/software used for the Python/OpenCV sections are separate from the hardware/software used in the RACECAR section of the curriculum:  
+    1. Python (coding)
+    2. OpenCV (computer vision)
+    3. RACECAR (robotics)
 
-    - The Python and OpenCV labs can be done on your own computer/laptop.     
-    - The RACECAR labs must be run on the racecars themselves.
+More specifically, the curriculum can be divided into 5 modules:   
+
+    - `Python <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/python.html>`_ - teaches you how to code in python
+    - `Game Projects <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/projects.html>`_ - create your own games with your newfound progamming knowledge!
+    - `OpenCV <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/opencv.html>`_ - introduces computer vision concepts and OpenCV functions through fun and interactive labs
+    - `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/racecar.html>`_ - gets you started on using the RACECAR platform
+    - `Final Challenge <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/finalchallenge.html>`_ - gives an overview of the RACECAR final challenge
+
+Modules 1-2 focus on learning Python, Module 3 on OpenCV, and Module 4-5 on RACECAR. 
+
+It is recommended that you go through the modules in order. Each section builds upon knowledge learned in the previous sections (ie. OpenCV builds upon Python knowledge, and RACECAR builds upon both Python and OpenCV knowledge)
 
 
-Python / OpenCV Labs
------------------------
-The `Python <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/python.html>`_ / `OpenCV <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/opencv.html>`_ labs can be run directly on your own computer/laptop (with the necessary software installations). The installation instructions and lab tutorials can be found here. It is recommended that you follow these tutorials in order:       
+Website Usage Guide
+------------------------
+All class materials (ie. lecture slides, labs, and kahoot review games) are in the "CURRICULUM" section of the website. Visit the `Course Materials <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/course_materials.html>`_ page for an overview of all the materials used in the curriculum. 
 
-    1. `Software Setup for Python and OpenCV <https://drive.google.com/open?id=1IBV25Wrk2XgS7Xtwo6VbOBgRdlEv5sZyZWhrb94gW1I>`_     
-    2. `How to Use Jupyter Notebook <https://drive.google.com/open?id=1Eoj9dEZZ_snuPFJfjFdRY2UJT_USRZldwWrDpEEG_po>`_     
-    3. Getting Started with the Python Labs (TBD)    
-    4. Practicing with Python Game Labs (TBD)     
-    5. Getting Started with the OpenCV Labs (TBD) 
+For a quick review on concepts learned, check out the "CHEATSHEETS" section of the website.
 
-RACECAR Labs
------------------------
-The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/racecar.html>`_ labs will require the RACECAR hardware platform. All the software will run on the RACECAR itself. You will need to build the RACECAR and set up the software accordingly. It is recommended that you follow these tutorials in order:     
+All the setup tutorials can be found in the "SETUP" section of the website.
 
-    1. `Hardware Build Instructions <https://drive.google.com/open?id=10djr9rF30_IfCtFhpvcpBh4owcSxtMIHP9qJA1nfyzw>`_  
+For more information on RMS in general, visit the "RESOURCES" section of the website.
 
-        - `Bill of Materials <https://drive.google.com/open?id=1pgc1RaVsBujjWzoO6uu5cKgIHgrCsZyRMPaoN123keA>`_    
-        - `RACECAR Mounting Plate CAD Files <https://drive.google.com/drive/folders/1NnhHsqurChNSBMjVC_DKC72OVTiFB8WH>`_ 
-        - `Parts Reference Guide <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_  
+Check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ page if you have any questions.
 
-    2. `Software Setup Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_ 
 
-        - `Racecar Image <https://drive.google.com/file/d/1A5_OMYxYopv92g5rnFW4ZgGRVuSGScLH/view>`_   
+How do I get started?
+------------------------
+Head over to Module 0: `Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_. This module will walk you through the tools you need to get started on the labs. 
 
-    3. Startup Instructions
 
-        - `Using Router <https://drive.google.com/open?id=1pgABl3y5eCxhEvG3m_-YYVbir-jgchQdEARMv4wjGJw>`_ 
-        - `Using Mini Monitor <https://drive.google.com/open?id=1iObOk55nPjIR_JX4Lw0xafy0AV1w7wYxuxSH8MhRbTk>`_
 
-    4. Getting Started with the RACECAR Labs (TBD)      
-    5. Getting Started with the Final Challenge (TBD) 
-
-Questions
------------------------
-If you run into any problems or questions with the lab and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_.
 

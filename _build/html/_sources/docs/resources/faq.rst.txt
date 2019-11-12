@@ -30,6 +30,15 @@ Why are we using Python2.7 instead of Python3?
 What are the hardware requirements for the Python/OpenCV labs?
 	- Any laptop/desktop that runs Windows, MacOS, or Linux.
 
+Can't I just run the Python and OpenCV labs on the RACECAR? Why do I need two different setups/platforms?
+	- tl;dr Is it possible? Yes. Is it recommended? No.
+	- Yes it is possible; just do the Python/OpenCV software setup on the Jetson itself. However, the primary reasons for not doing so are due to memory limitations, lag, accessibility, and scalability on the RACECARs. 
+
+		- Memory: The 32 GB SD card is unable to hold all the files for the python, opencv, and racecar labs at once. We'd need a larger SD card, and a larger corresponding image. We *do* have plans on creating a larger image, but that's a plan for the future.
+		- Lag: There tends to be a little lag running Jupyter on the Jetson (not sure why exactly, since the Jetson should be a pretty powerful onboard computer). But this lag is problematic when trying to debug OpenCV functions. So for more reliability/ease-of-use reasons, it's easier to just run the Python and OpenCV labs on a separate computer. 
+		- Accessibility: The Jetson is powered by a battery that can't be charged while in operation. Meaning you will have to switch out the battery every few hours or so, which might be disruptive to your work.
+		- Scalability: Sometimes its difficult for individuals to purchase all the materials required to build the racecar, and we don't want this to be a limiting factor in starting the course. The curriculum is designed so that the Python and OpenCV labs can be run on any personal computer with the correct specifications. Thus the students will not need the racecars until they get to the RACECAR labs.
+
 What is Jupyter Notebook? How do I use it?
     - Check out the `How to Use Jupyter Notebook <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/pythonopencv_software.html#id2>`_ document under the Python/OpenCV Software setup section.
 
@@ -53,6 +62,9 @@ What do I need to get started on the RACECAR labs?
 
 What is ROS?
 	- `ROS <https://www.ros.org/>`_ stands for Robot Operating System. It is an open-source library largely used in the robotics industry. According to the  website: "ROS is a set of software libraries and tools that help you build robot applications." The RACECAR is built on the ROS framework so that we can more easily modularize and integrate sensor functions.
+
+Can I skip to the RACECAR labs without doing the Python and OpenCV labs?
+	- The RACECAR labs directly apply concepts learned from the Python and OpenCV labs. It is *highly* recommended that you know Python and OpenCV before attempting the RACECAR labs. Don't skip.
 
 My RACECAR isn't moving.
     1. Is the white battery plugged in? Is the white battery charged?     
@@ -121,7 +133,7 @@ Should I use routers or mini-monitors?
 		- Routers (pros: accessibility, cons: network scalability/reliability)
 		- Mini Monitors (pros: reliability, cons: accessibility)
 
-	- Long answers:
+	- Long answer:
 
 		- Routers provide portability and ability to access/edit files on the racecar remotely on any device. However, there are concerns regarding reliability of data transfer due to wifi connectivity/bandwidth limitations. Having too many routers or too many racecars connected at once will cause huge network delays. We are looking for ways to fix the network reliability issue.
 		- Mini-monitors are more reliable, however it makes testing code on the moving racecar more difficult, since the mini-monitor must be connected to power at all times. Thus, testing code on the racecar will involve a lot of plugging/unplugging the HDMI cable, and you will not be able to see code output in real-time if needed for debugging purposes. Also, the screen size of the mini-monitors are quite small. We used small monitors for portability reasons. Feel free to use larger monitors. 

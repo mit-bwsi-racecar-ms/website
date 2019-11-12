@@ -1,6 +1,6 @@
 .. include:: ../opencv_links.rst
 
-Part 3: OpenCV
+Module 3: OpenCV
 ================================
 Slides: `Intro to OpenCV`_
 
