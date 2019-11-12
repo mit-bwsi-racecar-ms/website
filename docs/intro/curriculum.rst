@@ -1,4 +1,4 @@
-Curriculum Overview
+Curriculum Guide
 ======================
 
 The curriculum is split into 3 primary sections:    
@@ -32,7 +32,7 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
     - `Parts Reference Guide <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_     
     - `Hardware Build Instructions <https://drive.google.com/open?id=10djr9rF30_IfCtFhpvcpBh4owcSxtMIHP9qJA1nfyzw>`_    
     - `Software Setup Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_    
-    - Startup Instructions (`Using Router <https://drive.google.com/open?id=1pgABl3y5eCxhEvG3m_-YYVbir-jgchQdEARMv4wjGJw>`_ or `Using Mini Monitor <https://drive.google.com/open?id=1iObOk55nPjIR_JX4Lw0xafy0AV1w7wYxuxSH8MhRbTk>`_)     
+    - Startup Instructions (`Using Router <https://drive.google.com/open?id=1pgABl3y5eCxhEvG3m_-YYVbir-jgchQdEARMv4wjGJw>`_ - or - `Using Mini Monitor <https://drive.google.com/open?id=1iObOk55nPjIR_JX4Lw0xafy0AV1w7wYxuxSH8MhRbTk>`_)     
     - Getting Started with the RACECAR Labs (TBD)      
     - Getting Started with the Final Challenge (TBD) 
 

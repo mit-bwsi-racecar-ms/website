@@ -5,27 +5,33 @@ General Questions
 -----------------------------------------
 
 How do I get started?
-	- Read the "Course Overview" section. This should provide a brief overview of the course, as well as instructions on how to follow the course curriculum.
-
-What software do I need to get started on the Python/OpenCV labs?
-	- Python 2.7
-	- Anaconda
-	- Jupyter
-
-What do I need to get started on the RACECAR labs?
-	- Follow the RACECAR hardware and software build/setup instructions.
+	- Read the `Curriculum Guide <https://mit-bwsi-racecar-ms.github.io/website/docs/intro/curriculum.html>`_. This should provide a brief overview of the course, as well as instructions on how to follow the course curriculum.
 
 Who should I contact regarding technical issues for this course?
 	- Email bwsi-rms-help.mit.edu
 
 My student is interested in the BeaverWorks Summer Institute Program. Who should I contact?
-	- Please visit the BWSI Website for more information: https://beaverworks.ll.mit.edu/CMS/bw/bwsi
+	- Please visit the `BWSI Website <https://beaverworks.ll.mit.edu/CMS/bw/bwsi>`_ for more information.
 
 Python, OpenCV, and Jupyter
 -----------------------------------------
 
-What are Jupyter Notebooks? How do I use it?
-    - Check out the "How to Use Jupyter Notebook" document under the "Python/OpenCV" section.
+What do I need to get started on the Python/OpenCV labs?     
+    - Follow the `Python and OpenCV software setup <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/pythonopencv_software.html>`_ instructions. This provides software installation instructions on how to set up your computer to be able to run the labs. After installing the necessary software, you should be able to get started on the `Python Labs <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/python.html>`_ and `OpenCV Labs <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/opencv.html>`_.
+
+What software will I need for the Python/OpenCV labs?
+	- Python2.7
+	- Anaconda
+	- Jupyter Notebook
+
+Why are we using Python2.7 instead of Python3?
+	- ROS is currently only compatible with Python2.7. Here is an article about the `Differences between Python 2 and Python 3 <https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/>`_.
+
+What are the hardware requirements for the Python/OpenCV labs?
+	- Any laptop/desktop that runs Windows, MacOS, or Linux.
+
+What is Jupyter Notebook? How do I use it?
+    - Check out the `How to Use Jupyter Notebook <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/pythonopencv_software.html#id2>`_ document under the Python/OpenCV Software setup section.
 
 What is "utils" or "racecar_utils"?
 	- These are scripts that hold helpful functions for the labs that were written by instructors.
@@ -41,6 +47,12 @@ My notebook cells look weird...
 
 RACECAR
 -----------------------------------------
+
+What do I need to get started on the RACECAR labs?
+	- Follow the RACECAR `hardware build <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/racecar_hardware.html>`_ and `software setup <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/racecar_software.html>`_ instructions. After setting up the hardware and software, you should be able to get started on the `RACECAR Labs <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/racecar.html>`_. 
+
+What is ROS?
+	- `ROS <https://www.ros.org/>`_ stands for Robot Operating System. It is an open-source library largely used in the robotics industry. According to the  website: "ROS is a set of software libraries and tools that help you build robot applications." The RACECAR is built on the ROS framework so that we can more easily modularize and integrate sensor functions.
 
 My RACECAR isn't moving.
     1. Is the white battery plugged in? Is the white battery charged?     
@@ -62,9 +74,12 @@ How do I use the controller?
     - To drive the RACECAR... Hold down the "dead-man switch" on the controller while operating the joysticks: LB for manual drive, or RB for autonomous mode. Use the left joystick to move forwards/backwards, and the right joystick to turn left/right.     
     - Make sure your RACECAR is nearby when using the controller. The controller/USB tends to get unpaired if they are too far away from each other.
 
+What is a "dead-man switch"?
+	- The "dead-man switch" is a button/switch that must be pressed concurrently while operating the joystick in order for the car to move. This prevents us from unintentionally moving/crashing the car. The dead-man switches on this car are: LB for manual drive, and RB for autonomous mode. 
+
 My keyboard isn't working.
     - Does your keyboard have battery?      
-    - Is the keyboard switched to “on”? (Look at the top, and make sure the top switch is green, not red)      
+    - Is the keyboard switched to “on”? (Look at the top, and make sure the top switch is GREEN, not red)      
     - Is the keyboard USB plugged into the Jetson nano?      
     - Are you working close to your racecar? (the keyboard/USB tends to get unpaired if they are too far away from each other)
 
@@ -100,8 +115,27 @@ I am getting the error: "ipywidgets is not installed"
 	- pip install ipywidgets
 	- jupyter nbextension enable --py widgetsnbextension
 
-How many racecars should we connect to one router at a time?
-	- We would recommend a max of 2 racecars to 1 router. 
-	- During our first summer running the class, we needed to use 12 racecars at once. We initially paired 4 racecars to 1 router (aka using 3-4 routers at once in one room), however there was overwhelming lag. This was because there were too many routers in one room at once, and too many racecars trying to access one router.  Our solution was to pair 2 racecars to 1 router, and separate the class into 2 classrooms to decrease router interference.
+Should I use routers or mini-monitors?
+	- Short answer: 
 
+		- Routers (pros: accessibility, cons: network scalability/reliability)
+		- Mini Monitors (pros: reliability, cons: accessibility)
+
+	- Long answers:
+
+		- Routers provide portability and ability to access/edit files on the racecar remotely on any device. However, there are concerns regarding reliability of data transfer due to wifi connectivity/bandwidth limitations. Having too many routers or too many racecars connected at once will cause huge network delays. We are looking for ways to fix the network reliability issue.
+		- Mini-monitors are more reliable, however it makes testing code on the moving racecar more difficult, since the mini-monitor must be connected to power at all times. Thus, testing code on the racecar will involve a lot of plugging/unplugging the HDMI cable, and you will not be able to see code output in real-time if needed for debugging purposes. Also, the screen size of the mini-monitors are quite small. We used small monitors for portability reasons. Feel free to use larger monitors. 
+		- During the summer, we started off using routers, then switched to mini-monitors. For a large and fast-paced class, we prioritized hardware reliability over accessibility. Our class required 12 racecars to be on at all times, and the network connectivity issues hindered students' progress. However, when debugging/developing labs, the instructors tended to just use routers, which was okay since we would only be working with 1 or 2 racecars on at once, not 12. 
+
+How many racecars should we connect to one router at a time?
+	- Short answer: 
+
+		- Ratio of 2-3 racecars to 1 router.
+
+	- Long answer: 
+
+		- During our first summer running the course, we started off pairing 4 racecars to 1 router. We also had ~4 routers in one room. This caused overwhelming lag. This was because there were too many routers in one room, and too many racecars trying to access each router at once.  Our solution was to pair 2 racecars to 1 router, and separate the class into 2 classrooms to decrease router network interference. 
+
+How do I safely shutdown the racecar?
+	- Exit all applications. Then type "shutdown" in the terminal. Wait for the green light to turn off on the Jetson to make sure the computer is properly shut down. Try not to directly unplug the white battery on the racecar while in operation, since this is a hard shutdown for the computer.
 
