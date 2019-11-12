@@ -13,4 +13,7 @@ Make changes to files in /docs folder. If you delete and rebuild the /_build fol
 ```git add <files_changed>```     
 ```git commit -m "<commit_message>"```     
 ```git push```     
-```git subtree push --prefix _build/html origin gh-pages```     
+```git subtree push --prefix _build/html origin gh-pages```
+
+If there are git subtree issues, force overwrite remote with local (use this with caution):
+```git push origin `git subtree split --prefix _build/html origin`:gh-pages --force```
