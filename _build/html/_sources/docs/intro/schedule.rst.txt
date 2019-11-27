@@ -16,5 +16,3 @@ Course Outline
 .. |sample_schedule| raw:: html
 
    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKhEYYN2ca744r1kkmUR4h640wo2cQdmuhX93LQptqOdQvCQBsDQ3-pxyUTQHyCBXpDcBE8_5wPw2z/pubhtml?widget=true&amp;headers=false" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-

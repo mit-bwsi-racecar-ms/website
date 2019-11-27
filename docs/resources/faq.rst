@@ -7,6 +7,9 @@ General Questions
 How do I get started?
 	- Read the `Curriculum Guide <https://mit-bwsi-racecar-ms.github.io/website/docs/intro/curriculum.html>`_. This should provide a brief overview of the course, as well as instructions on the order in which to complete the course curriculum.
 
+Do I need experience to start this course?
+	- Nope! This course was designed for students with little to no experience in programming or robotics. If you are interested in learning about programming, or making robots how to do cool things using computer vision, this is the place to start! No previous experience necessary! 
+
 Who should I contact regarding technical issues for this course?
 	- Email bwsi-rms-help.mit.edu
 
@@ -24,26 +27,32 @@ What software will I need for the Python/OpenCV labs?
 	- Anaconda
 	- Jupyter Notebook
 
-Why are we using Python2.7 instead of Python3?
+Why are we using Python 2.7 instead of Python 3?
 	- ROS is currently only compatible with Python2.7. Here is an article about the `Differences between Python 2 and Python 3 <https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/>`_.
 
 What are the hardware requirements for the Python/OpenCV labs?
 	- Any laptop/desktop that runs Windows, MacOS, or Linux.
 
 Can't I just run the Python and OpenCV labs on the RACECAR? Why do I need two different setups/platforms?
-	- tl;dr Is it possible? Yes. Is it recommended? No.
+	- tl;dr Is it possible to run the Python/OpenCV labs on the RACECAR? Yes. Is it recommended? No.
 	- Yes it is possible; just do the Python/OpenCV software setup on the Jetson itself. However, the primary reasons for not doing so are due to memory limitations, lag, accessibility, and scalability on the RACECARs. 
 
 		- Memory: The 32 GB SD card is unable to hold all the files for the python, opencv, and racecar labs at once. We'd need a larger SD card, and a larger corresponding image. We *do* have plans on creating a larger image, but that's a plan for the future.
-		- Lag: There tends to be a little lag running Jupyter on the Jetson (not sure why exactly, since the Jetson should be a pretty powerful onboard computer). But this lag is problematic when trying to debug OpenCV functions. So for more reliability/ease-of-use reasons, it's easier to just run the Python and OpenCV labs on a separate computer. 
-		- Accessibility: The Jetson is powered by a battery that can't be charged while in operation. Meaning you will have to switch out the battery every few hours or so, which might be disruptive to your work.
+		- Lag: There tends to be some lag running Jupyter on the Jetson. This lag is problematic when trying to debug OpenCV functions. So for more reliability/ease-of-use reasons, it's easier to just run the Python and OpenCV labs on a separate computer. 
+		- Accessibility: The Jetson is powered by a battery (white battery) that can't be charged while in operation. Meaning you will have to switch out the battery every few hours or so, which might be disruptive to your work.
 		- Scalability: Sometimes its difficult for individuals to purchase all the materials required to build the racecar, and we don't want this to be a limiting factor in starting the course. The curriculum is designed so that the Python and OpenCV labs can be run on any personal computer with the correct specifications. Thus the students will not need the racecars until they get to the RACECAR labs.
+
+What is Python? Is there a more in-depth tutorial for Python, besides what is already provided in this course?
+	- Yes! Check out `Python Like You Mean It <https://www.pythonlikeyoumeanit.com/>`_, which was created by another BWSI instructor. It goes pretty in-depth, and is SUPER useful for both beginners and advanced programmers. Even I learned some new things after going through the website!
 
 What is Jupyter Notebook? How do I use it?
     - Check out the `How to Use Jupyter Notebook <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/pythonopencv_software.html#id2>`_ document under the Python/OpenCV Software setup section.
 
-What is "utils" or "racecar_utils"?
+What is "utils.py" or "racecar_utils.py"?
 	- These are scripts that hold helpful functions for the labs that were written by instructors.
+
+The camera isn't showing up on Jupyter Notebook after trying to run "hsv_select_live()"!
+	- Go to utils.py, and change "video_port" from 0 to 1.
 
 How do I stop/interrupt a cell that is running?
 	- Press the "square" button at the top of the notebook. 

@@ -1,13 +1,13 @@
 Curriculum Guide
-========================
+===============================
 
 Course Overview
-------------------------
-The Racecar Middle School (RMS) curriculum focuses on teaching 3 main areas of interest:    
+-------------------------------
+The Racecar Middle School (RMS) curriculum teaches 3 main areas of interest:    
 
-    1. Python (coding)
-    2. OpenCV (computer vision)
-    3. RACECAR (robotics)
+    1. Programming (via Python)
+    2. Computer Vision (via OpenCV)
+    3. Robotics (via RACECAR)
 
 More specifically, the curriculum can be divided into 5 modules:   
 
@@ -23,22 +23,20 @@ It is recommended that you go through the modules in order. Each section builds 
 
 
 Website Usage Guide
-------------------------
-All class materials (ie. lecture slides, labs, and kahoot review games) are in the "CURRICULUM" section of the website. Visit the `Course Materials <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/course_materials.html>`_ page for an overview of all the materials used in the curriculum. 
+-------------------------------
+All class materials (ie. lecture slides, labs, and kahoot review games) are in the "CURRICULUM" section of the website. Visit the `Course Materials <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/course_materials.html>`_ page to view all the materials in one central location. 
 
-For a quick review on concepts learned, check out the "CHEATSHEETS" section of the website.
+For a quick review of concepts learned, check out the "CHEATSHEETS" section of the website.
 
-All the setup tutorials can be found in the "SETUP" section of the website.
+All the tutorial needed to setup your learning environments can be found in the "SETUP" section of the website.
 
 For more information on RMS in general, visit the "RESOURCES" section of the website.
 
 Check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ page if you have any questions.
 
 
-How do I get started?
-------------------------
-Head over to Module 0: `Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_. This module will walk you through the tools you need to get started on the labs. 
+Getting Started with the Labs
+-------------------------------
+Head over to `Module 0 Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_. This module will walk you through the setup and tools needed to get started on the labs.
 
-
-
-
+A general timeline for completing this curriculum can be found in the `Schedule <https://mit-bwsi-racecar-ms.github.io/website/docs/intro/schedule.html>`_ page.

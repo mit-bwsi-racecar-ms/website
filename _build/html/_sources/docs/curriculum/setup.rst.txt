@@ -48,6 +48,7 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
       
     5. Getting Started with the Final Challenge (TBD) 
 
+
 Debugging
 -----------------------
 If you run into any problems or questions with the labs and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_.
