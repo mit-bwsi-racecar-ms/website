@@ -20,11 +20,11 @@ How to Use Piazza
 ----------------------------------
 Piazza is a public discussion forum to ask questions about the RMS course. This forum is for you to ask questions and get advice on how to solve common debugging problems. No question is too simple. Many other students have probably encountered similar struggles at one point. Posting on Piazza is helpful because it enables not only instructors, but also students to help each other out!
 
-Please first visit the website's FAQ and previous piazza posts before posting. If you don't find your questions there, feel free to ask on piazza. 
+Please first visit the website's `FAQ <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ and `previous piazza posts <https://piazza.com/mit/spring2020/bwrmsstudents>`_ before posting. If you don't find your questions there, feel free to ask on piazza. 
 
 Do not share lab solutions. Piazza is a forum for collaboration, not for solution-sharing. 
 
-Be aware that because this is a public forum, do not post any sensitive personal information on there. Be careful of what information you share online. Exercise caution and be safe. Also please check with your parents before creating an account.
+Be aware that because this is a public forum, do not post any sensitive personal information on there. Be careful of what information you share online. As with any online activity, exercise caution and be safe. Also please check with your parents before creating an account.
 
 
 Setting Up
