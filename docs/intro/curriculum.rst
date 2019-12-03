@@ -5,9 +5,9 @@ Course Overview
 -------------------------------
 The Racecar Middle School (RMS) curriculum teaches 3 main areas of interest:    
 
-    1. Programming (via Python)
-    2. Computer Vision (via OpenCV)
-    3. Robotics (via RACECAR)
+    1. Programming (via. Python 2)
+    2. Computer Vision (via. OpenCV)
+    3. Robotics (via. RACECAR)
 
 More specifically, the curriculum can be divided into 5 modules:   
 
@@ -22,9 +22,9 @@ Modules 1-2 focus on learning Python, Module 3 on OpenCV, and Module 4-5 on RACE
 It is recommended that you go through the modules in order. Each section builds upon knowledge learned in the previous sections (ie. OpenCV builds upon Python knowledge, and RACECAR builds upon both Python and OpenCV knowledge)
 
 
-Website Usage Guide
+Website Guide
 -------------------------------
-All class materials (ie. lecture slides, labs, and kahoot review games) are in the "CURRICULUM" section of the website. Visit the `Course Materials <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/course_materials.html>`_ page to view all the materials in one central location. 
+All class materials (ie. lecture slides, labs, and kahoot review games) are in the "CURRICULUM" section of the website.
 
 For a quick review of concepts learned, check out the "CHEATSHEETS" section of the website.
 
@@ -32,10 +32,12 @@ All the tutorial needed to setup your learning environments can be found in the 
 
 For more information on RMS in general, visit the "RESOURCES" section of the website.
 
+Visit the `Course Materials <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/course_materials.html>`_ page to view all the materials in one central location. 
+
 Check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ page if you have any questions.
 
 
-Getting Started with the Labs
+Getting Started
 -------------------------------
 Head over to `Module 0 Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_. This module will walk you through the setup and tools needed to get started on the labs.
 

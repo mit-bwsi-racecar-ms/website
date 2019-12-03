@@ -24,6 +24,7 @@ Programming References
 | Jupyter https://jupyter.org/
 | OpenCV https://opencv.org/
 | ROS http://wiki.ros.org/
+| MIT RACECAR https://racecar.mit.edu/
 
 
 In the News

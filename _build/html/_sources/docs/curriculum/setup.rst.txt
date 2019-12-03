@@ -1,6 +1,21 @@
 Module 0: Getting Started
 ==================================
 
+Join the Piazza Community!
+----------------------------------
+The instructors will use Piazza to communicate with students in this course.  This will include updates about content has been added or edited as well as answers to questions posed in the discussion board.  
+
+To get connected go to:
+
+https://piazza.com/mit/spring2020/bwrmsstudents
+
+And use the access code:
+
+   egwpa
+
+to self-enroll in the piazza section for this course.
+
+
 Setting Up
 ----------------------------------
 The setup process can be divided into 2 parts:   
