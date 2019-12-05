@@ -1,9 +1,12 @@
 Module 0: Getting Started
 ==================================
 
+.. _FAQ: https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html
+.. _Bill of Materials: https://drive.google.com/open?id=1_VkuwM4j3yUIzZbNGKJk5iTojlEPtnPyxDwud2svyNE
+
 Join the Piazza Community!
 ----------------------------------
-The instructors will use Piazza to communicate with students in this course.  This will include updates about content has been added or edited as well as answers to questions posed in the discussion board.  
+The instructors will use Piazza to communicate with students in this course.  This will include updates about content being added or edited as well as answers to questions posted in the discussion board.  
 
 To get connected go to:
 
@@ -20,11 +23,15 @@ How to Use Piazza
 ----------------------------------
 Piazza is a public discussion forum to ask questions about the RMS course. This forum is for you to ask questions and get advice on how to solve common debugging problems. No question is too simple. Many other students have probably encountered similar struggles at one point. Posting on Piazza is helpful because it enables not only instructors, but also students to help each other out!
 
-Please first visit the website's `FAQ <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ and `previous piazza posts <https://piazza.com/mit/spring2020/bwrmsstudents>`_ before posting. If you don't find your questions there, feel free to ask on piazza. 
+Here are some general guidelines on using Piazza:
 
-Do not share lab solutions. Piazza is a forum for collaboration, not for solution-sharing. 
+1. Please first visit the website's `FAQ`_ and look through `past piazza posts <https://piazza.com/mit/spring2020/bwrmsstudents>`_ before posting. If you don't find your questions there, feel free to ask on piazza. 
 
-Be aware that because this is a public forum, do not post any sensitive personal information on there. Be careful of what information you share online. As with any online activity, exercise caution and be safe. Also please check with your parents before creating an account.
+2. Be specific. Describe your problem. What did you try doing? What didn't work? Include screenshots of what you tried, and the results. What do you think went wrong? Do not be vague. We can't answer your questions if we don't know what the problem is!
+
+3. Do not share lab solutions. Piazza is a forum for collaboration, not for solution-sharing. 
+
+Be aware that because this is a public forum, please do not post any sensitive personal information. As with any online activity, exercise caution and be careful about what information you share online. Also, please check with your parents before creating an account.
 
 
 Setting Up
@@ -55,24 +62,40 @@ RACECAR Labs
 ----------------------------------
 The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/racecar.html>`_ labs will require the RACECAR hardware platform. All the software will run on the RACECAR itself. You will need to build the RACECAR and set up the software accordingly. It is recommended that you follow these tutorials in order:     
 
-    1. `Hardware Build Instructions <https://drive.google.com/open?id=10djr9rF30_IfCtFhpvcpBh4owcSxtMIHP9qJA1nfyzw>`_  
+    1. Acquire all the necessary RACECAR components.
 
-        - `Bill of Materials <https://drive.google.com/open?id=1pgc1RaVsBujjWzoO6uu5cKgIHgrCsZyRMPaoN123keA>`_    
+        1. Look over the `Bill of Materials`_ 
+
+        2. Decide whether you will be using the Router or Mini-Monitor.
+
+            - Visit the `FAQ`_ to help you decide, under "Why do I need to use a router and/or mini-monitor?" and "Should I use routers or mini-monitors?"
+            - If you decide to use a router, be sure to include the "Router" in your `Bill of Materials`_  
+            - If you decide to use the mini-monitor, be sure to include the "Mini-Monitor Periferals" in your `Bill of Materials`_ 
+
+        3. Purchase the RACECAR components you need. All the parts are required except the components labelled "optional".
+
+    2. Cut the RACECAR Mounting Plate. You will need a laser cutter on hand.
+
         - `RACECAR Mounting Plate CAD Files <https://drive.google.com/drive/folders/1NnhHsqurChNSBMjVC_DKC72OVTiFB8WH>`_ 
+        
+    3. Assemble the RACECAR Hardware.
+
+        - `Hardware Assembly Instructions <https://drive.google.com/open?id=10djr9rF30_IfCtFhpvcpBh4owcSxtMIHP9qJA1nfyzw>`_     
         - `Parts Reference Guide <https://drive.google.com/open?id=127jLZJWT-LyYTPfUTLrZreGLeHtRsFCoxsgmiJG9umg>`_  
 
-    2. `Software Setup Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_ 
+    4. Setup the RACECAR Software.
 
+        - `Software Setup Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_ 
         - `Racecar Image <https://drive.google.com/file/d/1A5_OMYxYopv92g5rnFW4ZgGRVuSGScLH/view>`_   
 
-    3. Startup Instructions
+    5. Test drive your RACECAR with the Startup Instructions.
 
         - `Using Router <https://drive.google.com/open?id=1pgABl3y5eCxhEvG3m_-YYVbir-jgchQdEARMv4wjGJw>`_ 
         - `Using Mini Monitor <https://drive.google.com/open?id=1iObOk55nPjIR_JX4Lw0xafy0AV1w7wYxuxSH8MhRbTk>`_
 
-    4. Getting Started with the RACECAR Labs (TBD)    
+    6. Getting Started with the RACECAR Labs (TBD)    
       
-    5. Getting Started with the Final Challenge (TBD) 
+    7. Getting Started with the Final Challenge (TBD) 
 
 
 Debugging

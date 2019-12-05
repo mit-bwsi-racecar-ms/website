@@ -16,7 +16,7 @@ What's the Difference Between the Online Course, Crash Course, and Summer Course
 	3. The Summer Course is a month-long program, offered as part of the Beaver Works Summer Institute, taught by Beaver Works staff, which goes in-depth on all python, opencv, and racecar materials. The summer culminates in a final Mini Grand Prix, where students apply the concepts they've learned in class, to program a car to autonomously follow a race course.
 
 Who should I contact regarding technical issues for this course?
-	- Post on the Piazza.
+	- Post on the `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_.
 
 How do I join the class on Piazza?
 	- Instructions to join the Piazza can be found in `Module 0 Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_.
@@ -182,6 +182,9 @@ The computer is slow/lagging...
 
 The computer is running out of memory!
 	- Clean out your trash, and delete files you aren't using. We are currently using a 32 GB SD card, which runs out of memory quickly. We *do* have plans on creating a larger image, but that's a plan for the future.
+
+Why do I need to use a router and/or mini-monitor?
+	- You need to use either a router or mini-monitor in order to access the files on your RACECAR. Without them, you can't get into your RACECAR to make it drive! The router allows you to access the RACECAR remotely from your computer. The mini-monitor allows you to see what's going on in your RACECAR directly. Remember that your RACECAR is just like a small computer, so plugging in the mini-monitor is just plugging in a monitor to view your computer!
 
 Should I use routers or mini-monitors?
 	- Short answer: 

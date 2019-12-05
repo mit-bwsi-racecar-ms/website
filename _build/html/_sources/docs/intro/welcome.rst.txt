@@ -44,7 +44,7 @@ RMS was developed in Summer 2019 as a BWSI pilot middle school program, with the
 
 Some Statistics
 ------------------------------
-Students filled out self-assessments on the first and last day of the RMS Summer 2019 class. The questionnaire asked students about their comfortability with specified topics taught in class, ranking their comfortability from 1 (never heard of it) to 5 (expert). Based on student feedback, students who finished the curriculum felt a general increase in confidence and comfortability with programming, python, opencv, and robotics. For more details, check out the Student Feedback in the RMS Overview slides above (slides 55 - 59).
+Students filled out self-assessments on the first and last day of the RMS Summer 2019 class. The questionnaire asked students about their comfortability with specific topics taught in class. Students their comfortability from 1 (never heard of it) to 5 (expert). Based on student feedback, students who finished the curriculum felt a general increase in confidence and comfortability with programming, python, opencv, and robotics. For more details, check out the Student Feedback in the RMS Overview slides above (slides 55 - 59).
 
 
 
