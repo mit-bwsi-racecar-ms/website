@@ -68,14 +68,19 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
 
         2. Decide whether you will be using the Router or Mini-Monitor.
 
-            - Visit the `FAQ`_ to help you decide, under "Why do I need to use a router and/or mini-monitor?" and "Should I use routers or mini-monitors?"
+            - Visit the `FAQ`_ to help you decide. Relevant questions include:
+
+                - "Why do I need to use a router and/or mini-monitor?"
+                - "Should I use routers or mini-monitors?"
+
             - If you decide to use a router, be sure to include the "Router" in your `Bill of Materials`_  
-            - If you decide to use the mini-monitor, be sure to include the "Mini-Monitor Periferals" in your `Bill of Materials`_ 
+            - If you decide to use the mini-monitor, be sure to include the "Mini-Monitor Periferals" components in your `Bill of Materials`_ 
 
         3. Purchase the RACECAR components you need. All the parts are required except the components labelled "optional".
 
-    2. Cut the RACECAR Mounting Plate. You will need a laser cutter on hand.
+    2. Cut the RACECAR Mounting Plate out of the Delrin. You will need a laser cutter on hand. 
 
+        - If you do not have a laser cutter, use a hard cardboard piece instead, as a temporary mounting plate. Cut out the necessary holes by hand.
         - `RACECAR Mounting Plate CAD Files <https://drive.google.com/drive/folders/1NnhHsqurChNSBMjVC_DKC72OVTiFB8WH>`_ 
         
     3. Assemble the RACECAR Hardware.
@@ -85,8 +90,8 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
 
     4. Setup the RACECAR Software.
 
-        - `Software Setup Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_ 
-        - `Racecar Image <https://drive.google.com/file/d/1A5_OMYxYopv92g5rnFW4ZgGRVuSGScLH/view>`_   
+        - `Software Build Instructions <https://drive.google.com/open?id=1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw>`_  
+        - `Racecar Image <https://drive.google.com/file/d/1A5_OMYxYopv92g5rnFW4ZgGRVuSGScLH/view>`_  
 
     5. Test drive your RACECAR with the Startup Instructions.
 
@@ -100,4 +105,4 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
 
 Debugging
 -----------------------
-If you run into any problems or questions with the labs and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_.
+If you run into any problems or questions with the labs and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ or post on `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_!

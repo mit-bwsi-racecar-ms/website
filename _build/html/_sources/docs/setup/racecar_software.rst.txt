@@ -1,7 +1,7 @@
 RACECAR Software
 ===================================================================================================================================
 
-`Software Setup Instructions <https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/edit?usp=sharing>`_
+`Software Build Instructions <https://docs.google.com/document/d/1M99XklgR7pGS7_aW9fb94www9bNnznq7wxQn7z4suWw/edit?usp=sharing>`_
 -----------------------------------------------------------------------------------------------------------------------------------
 racecar-mn.img (`download <https://drive.google.com/open?id=1A5_OMYxYopv92g5rnFW4ZgGRVuSGScLH>`_) - NOTE: image is ~10GB
 
