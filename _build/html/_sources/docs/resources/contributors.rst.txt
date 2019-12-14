@@ -20,4 +20,6 @@ Special Thanks To:
 
 - Alex Hadley (GitHub: `@alexhad6 <https://github.com/alexhad6>`_) and Wendy Zhang (GitHub: `@liliarose <https://github.com/liliarose>`_), for their significant contributions in building and documenting both the first-year and online course curriculums;
 
-- BWSI 2019 Racecar Middle School TAs (Alex Hadley, Wendy Zhang, Dan Bi, Daniel Wang, and Nishanth Mankame), for their contributions in creating the in-class materials and labs, as well as their support in running the first-year summer course
+- BWSI 2019 Racecar Middle School TAs (Dan Bi, Alex Hadley, Nishanth Mankame, Daniel Wang, and Wendy Zhang), for their contributions in creating the in-class materials and labs, as well as their support in running the first-year summer course;
+
+- BWSI RMS Class of 2019, for being wonderfully enthusiastic and patient students while we were running the course for the first time!

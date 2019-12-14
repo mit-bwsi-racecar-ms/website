@@ -29,6 +29,8 @@ Programming References
 
 In the News
 --------------------------------
+| Dec 13, 2019, Boston-area girls discover a passion for coding
+| http://news.mit.edu/2019/boston-area-girls-discover-passion-coding-mit-lincoln-laboratory-1213
 | Aug 12, 2019, Beaver Works Summer Institute concludes its fourth year
 | http://news.mit.edu/2019/beaver-works-summer-institute-concludes-races-and-demonstrations-0812   
 | Jul 23, 2019, MIT welcomes 275 students to its world-class summer STEM program

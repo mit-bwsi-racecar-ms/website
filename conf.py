@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'MIT BWSI Racecar Middle School'
-copyright = '2020, MIT BeaverWorks Summer Institute'
+copyright = '2019-2020, MIT BeaverWorks Summer Institute'
 author = 'Sabina Chen'
 
 # The short X.Y version
