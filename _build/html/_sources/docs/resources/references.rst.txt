@@ -16,6 +16,12 @@ Racecar Middle School (RMS)
 | RMS Instagram https://www.instagram.com/racecarms19/
 
 
+Other Racecar Courses
+--------------------------------
+| BWSI Racecar (high school) http://bwsi-racecar.com/
+| MIT RACECAR (undergrad) https://racecar.mit.edu/
+
+
 Programming References
 --------------------------------
 | Python Like You Mean It https://www.pythonlikeyoumeanit.com/

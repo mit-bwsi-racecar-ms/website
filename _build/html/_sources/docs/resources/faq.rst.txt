@@ -24,6 +24,10 @@ How do I join the class on Piazza?
 I am interested in the BeaverWorks Summer Institute Program. Who should I contact?
 	- Please visit the `BWSI Website <https://beaverworks.ll.mit.edu/CMS/bw/bwsi>`_ for more information.
 
+Interested in teaching or developing the course further?
+	- Read `Interested in Contributing <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/contributors.html>`_ for ideas on how to help!
+
+
 Python, OpenCV, and Jupyter
 -----------------------------------------
 
@@ -122,6 +126,7 @@ My mini-monitor isn’t turning on.
 	- Is the Jetson nano turned on? (Is the green power button on?)
 	- Is the mode on the mini-monitor on “HDMI Mode"?
 	- Did you JUST turn on the Jetson nano? It takes a few minutes for the Jetson nano to completely turn on. Wait a few minutes for the nano to boot.
+	- Connect the mini-monitor to a keyboard and press any mouse button to wake up the computer. It might’ve gone into sleep mode.
 	- If none of this works, unplug power cycle the racecar.
 
 How do I power cycle the racecar?
