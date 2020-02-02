@@ -42,14 +42,15 @@ Interested in helping out, but not sure where to start? Here are some ideas for 
 	- Make the mini-monitor portable!
 	- Take a deep-dive into the racecar backend files, and document them!
 	- Create an “instructors guide” especially for lecture materials
-
+        - Figure out how to run opencv labs online via MyBinder. Here are some `notes <https://docs.google.com/document/d/1DAzA4yw09UZQohryDQXkEt6h4R-DMn25SUkX90XFoRw/edit?usp=sharing>`_ to get you started
+        
 Have suggested updates to the lab code or to the website? Fork a branch on Github!
 	- `Python and OpenCV Labs <https://github.com/mit-bwsi-racecar-ms/online-labs>`_
 	- `RACECAR Labs <https://github.com/mit-bwsi-racecar-ms/online-racecar-mn>`_
 	- `Website Source Code <https://github.com/mit-bwsi-racecar-ms/website>`_
 
 Have feedback for the course? Fill out the form below!
-	- `Feedback Form <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_
+	- `Feedback Form <https://forms.gle/hkA3VUTrBwUxq36w9>`_
 
 Have specific questions?
 	1. Check the `FAQ <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_
