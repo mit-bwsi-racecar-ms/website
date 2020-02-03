@@ -25,6 +25,13 @@ Special Thanks To:
 - BWSI RMS Class of 2019, for being wonderfully enthusiastic and patient students while we were running the course for the first time!
 
 
+Contributors
+--------------------------------
+The following people made significant contributions to Racecar Middle School:
+
+- Bob Cassels (`@bobcassels <https://github.com/bobcassels>`_)
+
+
 Interested in Contributing?
 --------------------------------
 The curriculum is constantly improving, and is supported by enthusiastic individuals, like you! 
