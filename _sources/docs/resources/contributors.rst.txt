@@ -30,6 +30,7 @@ Contributors
 The following people made significant contributions to Racecar Middle School:
 
 - Bob Cassels (`@bobcassels <https://github.com/bobcassels>`_)
+- Adrita Samanta (`@asamanta1920 <https://github.com/asamanta1920>`_)
 
 
 Interested in Contributing?
