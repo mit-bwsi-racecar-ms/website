@@ -57,53 +57,53 @@
 
 .. LAB LINKS
 
-.. _Drawing Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/01-drawing_lab/DrawingLab.ipynb
-.. _Color Trackbar Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/02-color_trackbar/ColorTrackbar.ipynb
-.. _Color Spaces Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/03-color_spaces/ColorSpaces.ipynb
-.. _Color Masking Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/04-birdie_mask/BirdieMask.ipynb
-.. _Green Screens Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/05-green_screen/GreenScreen.ipynb
-.. _Contours Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/06-contours/Contours.ipynb
-.. _Painter Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/07-painter/Painter.ipynb
-.. _Feature Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/08-feature_detection/FeatureDetection.ipynb
-.. _Edge Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/09-edge_detection/EdgeDetection.ipynb
+.. _Drawing Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/01-drawing_lab/DrawingLab.ipynb
+.. _Color Trackbar Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/02-color_trackbar/ColorTrackbar.ipynb
+.. _Color Spaces Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/03-color_spaces/ColorSpaces.ipynb
+.. _Color Masking Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/04-birdie_mask/BirdieMask.ipynb
+.. _Green Screens Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/05-green_screen/GreenScreen.ipynb
+.. _Contours Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/06-contours/Contours.ipynb
+.. _Painter Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/07-painter/Painter.ipynb
+.. _Feature Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/08-feature_detection/FeatureDetection.ipynb
+.. _Edge Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/09-edge_detection/EdgeDetection.ipynb
 
 .. LAB EMBEDDED
 
 .. |drawing_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/01-drawing_lab/DrawingLab.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/01-drawing_lab/DrawingLab.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |colortrackbar_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/02-color_trackbar/ColorTrackbar.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/02-color_trackbar/ColorTrackbar.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |colorspaces_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/03-color_spaces/ColorSpaces.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/03-color_spaces/ColorSpaces.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |colormasking_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/04-birdie_mask/BirdieMask.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/04-birdie_mask/BirdieMask.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |greenscreens_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/05-green_screen/GreenScreen.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/05-green_screen/GreenScreen.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |contours_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/06-contours/Contours.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/06-contours/Contours.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |painter_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/07-painter/Painter.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/07-painter/Painter.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |featuredetection_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/08-feature_detection/FeatureDetection.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/08-feature_detection/FeatureDetection.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |edgedetection_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/03-openCV/09-edge_detection/EdgeDetection.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/03-openCV/09-edge_detection/EdgeDetection.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. KAHOOT LINKS
 

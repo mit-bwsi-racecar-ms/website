@@ -5,7 +5,7 @@ Course Overview
 -------------------------------
 The Racecar Middle School (RMS) curriculum teaches 3 main areas of interest:    
 
-    1. Programming (via. Python 2.7)
+    1. Programming (via. Python3)
     2. Computer Vision (via. OpenCV)
     3. Robotics (via. RACECAR)
 

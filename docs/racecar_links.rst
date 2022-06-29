@@ -47,38 +47,38 @@
 
 .. LAB LINKS
 
-.. _Intro to RACECAR Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/01-intro_racecar/IntroRacecar.ipynb
-.. _Cone Following Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/02-cone_following/ConeFollowing.ipynb
-.. _Line Following Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/03-line_following/LineFollowing.ipynb
-.. _Path Selection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/04-path_selection/PathSelection-Instructions.ipynb
-.. _Cone Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/05-cone_detection/ConeDetection-Instructions.ipynb
-.. _Sign Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/06-sign_detection/SignDetection-Instructions.ipynb
+.. _Intro to RACECAR Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/01-intro_racecar/IntroRacecar.ipynb
+.. _Cone Following Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/02-cone_following/ConeFollowing.ipynb
+.. _Line Following Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/03-line_following/LineFollowing.ipynb
+.. _Path Selection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/04-path_selection/PathSelection-Instructions.ipynb
+.. _Cone Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/05-cone_detection/ConeDetection-Instructions.ipynb
+.. _Sign Detection Lab: https://github.com/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/06-sign_detection/SignDetection-Instructions.ipynb
 
 .. LAB EMBEDDED
 
 .. |introracecar_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/01-intro_racecar/IntroRacecar.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/01-intro_racecar/IntroRacecar.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |conefollowing_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/02-cone_following/ConeFollowing.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/02-cone_following/ConeFollowing.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |linefollowing_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/03-line_following/LineFollowing.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/03-line_following/LineFollowing.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |pathselection_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/04-path_selection/PathSelection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/04-path_selection/PathSelection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |conedetection_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/05-cone_detection/ConeDetection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/05-cone_detection/ConeDetection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |signdetection_lab_embed| raw:: html
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/master/06-sign_detection/SignDetection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-racecar-mn/blob/main/06-sign_detection/SignDetection-Instructions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. KAHOOT LINKS
 

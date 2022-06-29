@@ -1,0 +1,18 @@
+name: "Build sphinx."
+on:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  build_docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Sphinx Publish Action
+        uses: totaldebug/sphinx-publish-action@1.2.0
+        with:
+          pre_build_commands: "python -m pip install -r requirements.txt"
+          token: ${{ secrets.TOKEN_MITLL_RACECAR }}
+          target_branch: "gh-pages"

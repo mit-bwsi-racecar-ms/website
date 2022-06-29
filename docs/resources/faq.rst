@@ -16,7 +16,7 @@ What's the Difference Between the Online Course, Crash Course, and Summer Course
 	3. The Summer Course is a month-long program, offered as part of the Beaver Works Summer Institute, taught by Beaver Works staff, which goes in-depth on all python, opencv, and racecar materials. The summer culminates in a final Mini Grand Prix, where students apply the concepts they've learned in class, to program a car to autonomously follow a race course.
 
 Who should I contact regarding technical issues for this course?
-	- Post on the `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_.
+	- Post on the `Piazza <https://piazza.com/mit/summer2022/bwrmsstudents>`_.
 
 How do I join the class on Piazza?
 	- Instructions to join the Piazza can be found in `Module 0 Getting Started <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/setup.html>`_.
@@ -35,12 +35,9 @@ What do I need to get started on the Python/OpenCV labs?
     - Follow the `Python and OpenCV software setup <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/pythonopencv_software.html>`_ instructions. This provides software installation instructions on how to set up your computer to be able to run the labs. After installing the necessary software, you should be able to get started on the `Python Labs <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/python.html>`_ and `OpenCV Labs <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/opencv.html>`_.
 
 What software will I need for the Python/OpenCV labs?
-	- Python2.7
+	- Python 3.7 or newer
 	- Anaconda
 	- Jupyter Notebook
-
-Why are we using Python 2.7 instead of Python 3?
-	- ROS is currently only compatible with Python2.7. Here is an article about the `Differences between Python 2 and Python 3 <https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/>`_.
 
 What are the hardware requirements for the Python/OpenCV labs?
 	- Any laptop/desktop that runs Windows, MacOS, or Linux.

@@ -33,6 +33,7 @@ These people have made significant contributions to Racecar Middle School:
 - Adrita Samanta (`@asamanta1920 <https://github.com/asamanta1920>`_)
 - Dan Williams (`@teyrana <https://github.com/teyrana>`_)
 - Jesse Klimov (`@JKlimov <https://github.com/JKlimov>`_)
+- John MacTavish (`@techsolx <https://github.com/techsolx>`_)
 
 Interested in Contributing?
 --------------------------------
@@ -40,10 +41,9 @@ The curriculum is constantly improving, and is supported by enthusiastic individ
 
 
 Interested in helping out, but not sure where to start? Here are some ideas for improving the course:
-	- Answer questions on `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_!
+	- Answer questions on `Piazza <https://piazza.com/mit/summer2022/bwrmsstudents>`_!
 	- Teach/run through the course yourself, and give feedback on the labs/website!
 	- Create a larger `RACECAR image <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/racecar_software.html>`_ (32GB -> 64GB or 128 GB)
-	- Convert Python2.7/ROS to Python3/ROS2 (python2.7 has been `deprecated <https://pythonclock.org/>`_) *[in progress]*
 	- Utilize the Jetson Nano's GPU more effectively (currently runs on CPU, not efficient) *[in progress]*
 	- Upgrade router and/or wifi USB (figure out the lag issue when there are multiple routers/racecars on at the same time)
 	- Upgrade controller and/or keyboard (having too many controllers/keyboards in one room at a time will cause controllers/keyboards to disconnnect and reconnect incorrectly)
@@ -51,7 +51,7 @@ Interested in helping out, but not sure where to start? Here are some ideas for 
 	- Make the mini-monitor portable!
 	- Take a deep-dive into the racecar backend files, and document them!
 	- Create an “instructors guide” especially for lecture materials
-        - Figure out how to run opencv labs online via MyBinder. Here are some `notes <https://docs.google.com/document/d/1DAzA4yw09UZQohryDQXkEt6h4R-DMn25SUkX90XFoRw/edit?usp=sharing>`_ to get you started
+        - Figure out how to run opencv labs online via MyBinder. Here are some `notes <https://docs.google.com/document/d/1DAzA4yw09UZQohryDQXkEt6h4R-DMn25SUkX90XFoRw/edit?usp=sharing>`_ to get you started  *[in progress]*
 
 Have suggested updates to the lab code or to the website? Fork a branch on Github!
 	- `Python and OpenCV Labs <https://github.com/mit-bwsi-racecar-ms/online-labs>`_
@@ -63,7 +63,7 @@ Have feedback for the course? Fill out the form below!
 
 Have specific questions?
 	1. Check the `FAQ <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_
-	2. Check the `Piazza  <https://piazza.com/mit/spring2020/bwrmsstudents>`_
+	2. Check the `Piazza  <https://piazza.com/mit/summer2022/bwrmsstudents>`_
 
 
 Changelog
