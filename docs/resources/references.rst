@@ -25,7 +25,7 @@ Other Racecar Courses
 Programming References
 --------------------------------
 | Python Like You Mean It https://www.pythonlikeyoumeanit.com/
-| Python 2.7 https://www.python.org/download/releases/2.7/
+| Python https://www.python.org/download/
 | Anaconda https://www.anaconda.com/distribution/
 | Jupyter https://jupyter.org/
 | OpenCV https://opencv.org/

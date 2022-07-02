@@ -58,14 +58,14 @@
 .. LAB LINKS
 
 .. _Scratch Lab: https://drive.google.com/open?id=1BjSqxczNkFwnhlQgZZjigMEL8_xos3_HEoxeyb9oDrA
-.. _Data Types Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/01-datatypes/DataTypes.ipynb
-.. _Variables Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/02-variables/Variables.ipynb
-.. _Conditionals Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/03-conditionals/Conditionals.ipynb
-.. _Functions Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/04-functions/Functions.ipynb
-.. _Data Structures Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/05-datastructures/DataStructures.ipynb
-.. _Loops Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/06-loops/Loops.ipynb
-.. _Object Oriented Programming Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/07-objectoriented/ObjectOriented.ipynb
-.. _Python Review Labs: https://github.com/mit-bwsi-racecar-ms/online-labs/tree/master/01-python/review
+.. _Data Types Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/01-datatypes/DataTypes.ipynb
+.. _Variables Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/02-variables/Variables.ipynb
+.. _Conditionals Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/03-conditionals/Conditionals.ipynb
+.. _Functions Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/04-functions/Functions.ipynb
+.. _Data Structures Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/05-datastructures/DataStructures.ipynb
+.. _Loops Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/06-loops/Loops.ipynb
+.. _Object Oriented Programming Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/07-objectoriented/ObjectOriented.ipynb
+.. _Python Review Labs: https://github.com/mit-bwsi-racecar-ms/online-labs/tree/main/01-python/review
 
 .. LAB EMBEDDED
 
@@ -75,35 +75,35 @@
 
 .. |datatypes_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/01-datatypes/DataTypes.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/01-datatypes/DataTypes.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |variables_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/02-variables/Variables.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/02-variables/Variables.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
 .. |conditionals_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/03-conditionals/Conditionals.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/03-conditionals/Conditionals.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |functions_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/04-functions/Functions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/04-functions/Functions.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |datstructures_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/05-datastructures/DataStructures.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/05-datastructures/DataStructures.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |loops_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/06-loops/Loops.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/06-loops/Loops.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |oop_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/01-python/07-objectoriented/ObjectOriented.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/01-python/07-objectoriented/ObjectOriented.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |pythonreview_lab_embed| raw:: html
 
-   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/tree/master/01-python/review/" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/tree/main/01-python/review/" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. KAHOOT LINKS
 

@@ -10,7 +10,7 @@ The instructors will use Piazza to communicate with students in this course.  Th
 
 To get connected go to:
 
-https://piazza.com/mit/spring2020/bwrmsstudents
+https://piazza.com/mit/summer2022/bwrmsstudents
 
 And use the access code:
 
@@ -25,7 +25,7 @@ Piazza is a public discussion forum to ask questions about the RMS course. This 
 
 Here are some general guidelines on using Piazza:
 
-1. Please first visit the website's `FAQ`_ and look through `past piazza posts <https://piazza.com/mit/spring2020/bwrmsstudents>`_ before posting. If you don't find your questions there, feel free to ask on piazza. 
+1. Please first visit the website's `FAQ`_ and look through `past piazza posts <https://piazza.com/mit/summer2022/bwrmsstudents>`_ before posting. If you don't find your questions there, feel free to ask on piazza. 
 
 2. Be specific. Describe your problem. What did you try doing? What didn't work? Include screenshots of what you tried, and the results. What do you think went wrong? Do not be vague. We can't answer your questions if we don't know what the problem is!
 
@@ -105,4 +105,4 @@ The `RACECAR <https://mit-bwsi-racecar-ms.github.io/website/docs/curriculum/race
 
 Debugging
 -----------------------
-If you run into any problems or questions with the labs and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ or post on `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_!
+If you run into any problems or questions with the labs and/or setup process, check out the `Frequently Asked Questions <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_ or post on `Piazza <https://piazza.com/mit/summer2022/bwrmsstudents>`_!

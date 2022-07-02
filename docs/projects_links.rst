@@ -12,39 +12,39 @@
 
 .. LAB LINKS
 
-.. _Mad Libs: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/MadLibs/Madlibs.ipynb
-.. _Hogwarts Adventure Demo: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/ChooseYourAdventure/HogwartsAdventure.ipynb
-.. _Choose Your Own Adventure Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/ChooseYourAdventure/ChooseYourAdventure.ipynb 
-.. _Tic Tac Toe: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/TicTacToe/TicTacToe.ipynb
-.. _Hangman: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/Hangman/Hangman.ipynb
-.. _Cube Runner: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/CubeRunner/CubeRunner.ipynb
+.. _Mad Libs: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/MadLibs/Madlibs.ipynb
+.. _Hogwarts Adventure Demo: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/ChooseYourAdventure/HogwartsAdventure.ipynb
+.. _Choose Your Own Adventure Lab: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/ChooseYourAdventure/ChooseYourAdventure.ipynb 
+.. _Tic Tac Toe: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/TicTacToe/TicTacToe.ipynb
+.. _Hangman: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/Hangman/Hangman.ipynb
+.. _Cube Runner: https://github.com/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/CubeRunner/CubeRunner.ipynb
 .. _Coding Bat Exercises: https://drive.google.com/open?id=1YQPGOJxcf8QmyqfCL2ru8rjRSyg3mV7VPLwNx-4hjO8
 
 .. LAB EMBEDDED
 
 .. |madlibs_lab_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/MadLibs/Madlibs.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/MadLibs/Madlibs.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |hogwarts_demo_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/ChooseYourAdventure/HogwartsAdventure.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/ChooseYourAdventure/HogwartsAdventure.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |adventure_lab_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/ChooseYourAdventure/ChooseYourAdventure.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/ChooseYourAdventure/ChooseYourAdventure.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |tictactoe_lab_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/TicTacToe/TicTacToe.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/TicTacToe/TicTacToe.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |hangman_lab_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/Hangman/Hangman.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/Hangman/Hangman.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |cuberunner_lab_embed| raw:: html 
 
-	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/master/02-projects/CubeRunner/CubeRunner.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe src="https://nbviewer.jupyter.org/github/mit-bwsi-racecar-ms/online-labs/blob/main/02-projects/CubeRunner/CubeRunner.ipynb" frameborder="1" width="700" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |codingbat_embed| raw:: html
 
